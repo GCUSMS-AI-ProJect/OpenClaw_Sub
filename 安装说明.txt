@@ -1,0 +1,12 @@
+OpenClaw 安装说明
+
+适用：Ubuntu / Debian 桌面版，Intel/AMD 64 位，Python 3.9+。
+
+1. 解压安装包，在文件夹中打开终端。
+2. 输入命令：bash install.sh
+3. 按提示输入 sudo 密码，等待安装完成。
+4. 从应用菜单打开 OpenClaw，添加自己的模型供应商和 API Key。
+
+请以普通用户运行，缺少的系统依赖需要联网安装。
+适用于尚未安装 OpenClaw 的用户环境。
+功能介绍和图片示意见 README.md。
